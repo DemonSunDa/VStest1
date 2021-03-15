@@ -4,9 +4,11 @@
 #include <iostream>
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     printf("Hello World!\n");
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
